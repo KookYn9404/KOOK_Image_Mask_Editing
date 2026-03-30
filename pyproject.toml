@@ -1,0 +1,12 @@
+[project]
+name = "kook-image-mask-editing"
+version = "1.0.0"
+description = "ComfyUI 图像蒙版编辑节点 - 提供交互式蒙版编辑功能"
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+requires-python = ">=3.10"
+
+[tool.comfy]
+PublisherId = "kook"
+DisplayName = "KOOK_图像蒙版编辑"
+Icon = ""
